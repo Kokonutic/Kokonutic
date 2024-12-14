@@ -1,7 +1,1 @@
-![Pink sky across majestic mountains](https://github.com/Kokonutic/Kokonutic/blob/main/assets/Wallpaper2-01.svg)
-
-<div align="center">
-
-# Hi there 👋
-
-</div>
+![Jellyfishes](https://github.com/Kokonutic/Kokonutic/blob/main/assets/IMG_20240821_131640_crop.jpg)
